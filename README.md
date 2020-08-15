@@ -35,4 +35,4 @@ Pantallas de información:
  Desarrollado en Java, BD portable Derby.
  Ejecutable: Penelope.jar
  
- ![Portada](https://raw.githubusercontent.com/programming-Regina/Penelope/tree/master/img/penelop1.jpg)
+ ![Portada](https://raw.githubusercontent.com/programming-Regina/Penelope/master/img/penelop1.jpg)
