@@ -9,9 +9,9 @@
  *                                           *
  *********************************************
 
-TRABAJO FINAL
+TRABAJO FINAL 
 PENÉLOPE v0.9
-SISTEMA DE GESTIÓN DE VACANTES 
+SISTEMA DE GESTIÓN DE VACANTES (Codo a Codo / Segunda Vuelta)
  
 
 A partir de una base de datos de aspirantes preinscriptos, genera las listas de comisiones al cierre del período de preinscripción, según 3 opciones elegidas por el alumno y la disponibilidad de vacantes. 
@@ -32,4 +32,7 @@ Pantallas de información:
 - Horarios, aulas y docentes a cargo de comisiones 
 - Datos de contacto de los docentes
  
- Desarrollado en Java, BD portable Derby
+ Desarrollado en Java, BD portable Derby.
+ Ejecutable: Penelope.jar
+ 
+ ![Portada](https://raw.githubusercontent.com/programming-Regina/Penelope/tree/master/img/penelop1.jpg)
