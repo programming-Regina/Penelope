@@ -25,12 +25,14 @@ Listados por pantalla:
  
 Formularios: 
 - Preinscripción (con funciones CRUD), más recuadro de consulta rápida del estado de inscripción del alumno a partir de Nº de DNI.
-  
+  ![Preinscripción](https://raw.githubusercontent.com/programming-Regina/Penelope/master/img/penelop2.jpg)
 
 Pantallas de información: 
 - Cronograma del curso 
 - Horarios, aulas y docentes a cargo de comisiones 
 - Datos de contacto de los docentes
+
+![Pantalla info](https://raw.githubusercontent.com/programming-Regina/Penelope/master/img/penelop3.jpg)
  
  Desarrollado en Java, BD portable Derby.
  Ejecutable: Penelope.jar
